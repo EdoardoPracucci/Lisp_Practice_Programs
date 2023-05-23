@@ -1,0 +1,6 @@
+
+cdr prende gli elementi della lista a parte il primo quinid il cdr della lista  '5 4 8 4 1' è '4 8 4 1'
+
+setq viene usato per settare la lista a degli elementi: (setq v1 '1 2 4') v1 è uguale alla lista di '1 2 4'
+
+append serve per inserire elementi nella lista: (append (lista 1) (elem da aggiungere)) 
